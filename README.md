@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="card_dark.svg">
-  <img alt="Alberto Lopez-Benjumea - character sheet" src="card_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="card_dark_v2.svg">
+  <img alt="Alberto Lopez-Benjumea - character sheet" src="card_light_v2.svg">
 </picture>
 
 <a href="https://alblopnov.github.io/feria-portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="link_portfolio_dark.svg"><img alt="Portfolio" src="link_portfolio_light.svg"></picture></a>
